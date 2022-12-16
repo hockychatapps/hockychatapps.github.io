@@ -2,35 +2,35 @@
     "Status": true,
     "HttpStatus": 200,
     "Data": {
-        "ShowAds": true,
+        "ShowAds": false,
         "Ads": [
             {
                 "MonetizationId": 1,
                 "MonetizerName": "Facebook Monetization",
-                "AdAppKey": "762791484813136",
-                "BannerAdKey": "762791484813136_762792188146399",
-                "InterstitialAdKey": "762791484813136_762792268146391",
-                "RewardedAdKey": "762791484813136_762792614813023",
+                "AdAppKey": "44444",
+                "BannerAdKey": "44444",
+                "InterstitialAdKey": "44444",
+                "RewardedAdKey": "44444",
                 "NativeAdKey": ""
             },
             {
                 "MonetizationId": 6,
                 "MonetizerName": "ironSource",
-                "AdAppKey": "16889a775",
+                "AdAppKey": "1261eec25",
                 "BannerAdKey": "",
                 "InterstitialAdKey": "",
                 "RewardedAdKey": "",
                 "NativeAdKey": ""
             },
-			{
-				"MonetizationId": 5,
-				"MonetizerName": "UnityAds",
-				"AdAppKey": "4936909",
-				"BannerAdKey": "Banner_Android",
-				"InterstitialAdKey": "Interstitial_Android",
-				"RewardedAdKey": "Rewarded_Android",
-				"NativeAdKey": ""
-			}
+            {
+                "MonetizationId": 5,
+                "MonetizerName": "UnityAds",
+                "AdAppKey": "UNITY_UNITY",
+                "BannerAdKey": "Banner_Android",
+                "InterstitialAdKey": "Interstitial_Android",
+                "RewardedAdKey": "Rewarded_Android",
+                "NativeAdKey": ""
+            }
         ]
     },
     "Message": "Data loaded."
